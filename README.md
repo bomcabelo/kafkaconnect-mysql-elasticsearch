@@ -5,3 +5,4 @@ docker exec -it
 mysql -uroot -p
 senha: root
 use products
+create table products(id int, name varchar(255));
