@@ -1,9 +1,17 @@
-# Kafka Connect: Integração entre sistemas (MySQL /Elasticsearch)
+# Kafka Connect: Integração entre sistemas 
 Vamos clonar!
 Execute o comando git clone "url"  
 # Inicie o docker
-. Dentro da pasta "C:\Projetos\kafkaconnect-mysql-elasticsearch" abra a ide de sua preferência
-. docker-compose up -d
+Dentro da pasta "C:\Sua Pasta\kafkaconnect-mysql-elasticsearch" abra a ide de sua preferência "Visual Studio" code .
+# Executando 
+docker-compose up -d
+
+
+
+
+
+
+docker-compose up -d
 docker-compose ps
 docker exec -it 
 mysql -uroot -p
